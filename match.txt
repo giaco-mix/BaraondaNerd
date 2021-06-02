@@ -1,0 +1,296 @@
+Approx. of Game time (30 min/match + 5 min change): 840min, 14h0min
+
+Game: 1
+Giocatore11;
+Giocatore2;
+Giocatore28;
+
+Giocatore20;
+Giocatore24;
+Giocatore13;
+
+
+
+Game: 2
+Giocatore30;
+Giocatore8;
+Giocatore19;
+
+Giocatore22;
+Giocatore27;
+Giocatore4;
+
+
+
+Game: 3
+Giocatore23;
+Giocatore9;
+Giocatore7;
+
+Giocatore17;
+Giocatore26;
+Giocatore14;
+
+
+
+Game: 4
+Giocatore25;
+Giocatore16;
+Giocatore18;
+
+Giocatore6;
+Giocatore3;
+Giocatore15;
+
+
+
+Game: 5
+Giocatore12;
+Giocatore10;
+Giocatore21;
+
+Giocatore1;
+Giocatore5;
+Giocatore26;
+
+
+
+Game: 6
+Giocatore30;
+Giocatore11;
+Giocatore17;
+
+Giocatore7;
+Giocatore27;
+Giocatore4;
+
+
+
+Game: 7
+Giocatore9;
+Giocatore28;
+Giocatore22;
+
+Giocatore18;
+Giocatore10;
+Giocatore8;
+
+
+
+Game: 8
+Giocatore23;
+Giocatore16;
+Giocatore19;
+
+Giocatore25;
+Giocatore2;
+Giocatore15;
+
+
+
+Game: 9
+Giocatore20;
+Giocatore5;
+Giocatore14;
+
+Giocatore24;
+Giocatore29;
+Giocatore13;
+
+
+
+Game: 10
+Giocatore6;
+Giocatore21;
+Giocatore3;
+
+Giocatore1;
+Giocatore29;
+Giocatore27;
+
+
+
+Game: 11
+Giocatore4;
+Giocatore24;
+Giocatore20;
+
+Giocatore2;
+Giocatore1;
+Giocatore7;
+
+
+
+Game: 12
+Giocatore16;
+Giocatore5;
+Giocatore10;
+
+Giocatore26;
+Giocatore13;
+Giocatore23;
+
+
+
+Game: 13
+Giocatore12;
+Giocatore15;
+Giocatore11;
+
+Giocatore17;
+Giocatore19;
+Giocatore25;
+
+
+
+Game: 14
+Giocatore28;
+Giocatore12;
+Giocatore3;
+
+Giocatore6;
+Giocatore21;
+Giocatore22;
+
+
+
+Game: 15
+Giocatore18;
+Giocatore8;
+Giocatore9;
+
+Giocatore30;
+Giocatore14;
+Giocatore29;
+
+
+
+Game: 16
+Giocatore16;
+Giocatore13;
+Giocatore22;
+
+Giocatore7;
+Giocatore12;
+Giocatore19;
+
+
+
+Game: 17
+Giocatore18;
+Giocatore30;
+Giocatore29;
+
+Giocatore23;
+Giocatore8;
+Giocatore24;
+
+
+
+Game: 18
+Giocatore6;
+Giocatore5;
+Giocatore9;
+
+Giocatore27;
+Giocatore3;
+Giocatore15;
+
+
+
+Game: 19
+Giocatore14;
+Giocatore2;
+Giocatore25;
+
+Giocatore17;
+Giocatore11;
+Giocatore4;
+
+
+
+Game: 20
+Giocatore20;
+Giocatore10;
+Giocatore1;
+
+Giocatore28;
+Giocatore26;
+Giocatore2;
+
+
+
+Game: 21
+Giocatore15;
+Giocatore29;
+Giocatore17;
+
+Giocatore26;
+Giocatore4;
+Giocatore27;
+
+
+
+Game: 22
+Giocatore10;
+Giocatore24;
+Giocatore8;
+
+Giocatore1;
+Giocatore22;
+Giocatore20;
+
+
+
+Game: 23
+Giocatore5;
+Giocatore16;
+Giocatore3;
+
+Giocatore11;
+Giocatore6;
+Giocatore18;
+
+
+
+Game: 24
+Giocatore13;
+Giocatore25;
+Giocatore7;
+
+Giocatore12;
+Giocatore9;
+Giocatore30;
+
+Stats:
+
+Giocatore1;->has played 5
+Giocatore2;->has played 5
+Giocatore3;->has played 5
+Giocatore4;->has played 5
+Giocatore5;->has played 5
+Giocatore6;->has played 5
+Giocatore7;->has played 5
+Giocatore8;->has played 5
+Giocatore9;->has played 5
+Giocatore10;->has played 5
+Giocatore11;->has played 5
+Giocatore12;->has played 5
+Giocatore13;->has played 5
+Giocatore14;->has played 4
+Giocatore15;->has played 5
+Giocatore16;->has played 5
+Giocatore17;->has played 5
+Giocatore18;->has played 5
+Giocatore19;->has played 4
+Giocatore20;->has played 5
+Giocatore21;->has played 3
+Giocatore22;->has played 5
+Giocatore23;->has played 4
+Giocatore24;->has played 5
+Giocatore25;->has played 5
+Giocatore26;->has played 5
+Giocatore27;->has played 5
+Giocatore28;->has played 4
+Giocatore29;->has played 5
+Giocatore30;->has played 5
